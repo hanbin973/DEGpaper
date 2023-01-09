@@ -6,8 +6,8 @@ Additionally, the `Supplementary` folder contains example codes for users who wa
 
 ## Examples currently provided
 
-1. statsmodels (Python)
-2. fixest (R)
-3. sandwich (R)
+1. `statsmodels` (Python)
+2. `fixest` (R)
+3. `sandwich` (R)
 
 For `glmGamPoi`, checkout the [official documentation](https://bioconductor.org/packages/release/bioc/html/glmGamPoi.html).
