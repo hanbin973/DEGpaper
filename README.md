@@ -15,5 +15,6 @@ The `.rds` files of the datasets used in the analysis can be obtained from
 The `.rds` files of the datasets used in the analysis can be obtained from
     - [Schmidt et al.](https://zenodo.org/records/5784651)
     - [Kang et al.](https://figshare.com/articles/dataset/PBMC_scRNAseq_Kang_2018_RDS_dgCMatrix/22572694)
+
 The folder also contains two `.rds` files (`schdmit.result.rds` and `kang.result.rds`) storing the result of the analysis.
 
